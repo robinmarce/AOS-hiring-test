@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 110px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.SuccessPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 620px;
+  background-color: aquamarine;
+}
+
+h1 {
+  font-size: 150px;
+}
